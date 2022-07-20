@@ -1,8 +1,6 @@
-
 # PopupSmart Case
 
 Bu projenin case olarak yapılmıştır.
-
 
 ## Kullanılan Teknolojiler
 
@@ -10,7 +8,8 @@ Bu projenin case olarak yapılmıştır.
 
 **Sunucu:** Node
 
-  
+**Node Version:** v16.14.0
+
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
@@ -37,7 +36,6 @@ Sunucuyu çalıştırın
   yarn start
 ```
 
-  
 ## Dağıtım
 
 Bu projeyi dağıtmak için çalıştırın
@@ -46,9 +44,6 @@ Bu projeyi dağıtmak için çalıştırın
   yarn build
 ```
 
-  
-
-  
 ## Tasarım
 
 https://www.figma.com/file/ZBKf0YPpbetTdHjkCNlycu/Popupsmart---Frontend-Developer-Assignment?node-id=41%3A2
