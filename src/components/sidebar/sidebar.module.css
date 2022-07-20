@@ -1,0 +1,17 @@
+.sidebar {
+    padding: 10vh 65px;
+    height: 100%;
+    position: sticky;
+    top: 0;
+}
+.title{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-decoration-line: underline;
+    color: #000000;
+    margin-bottom:33px;
+}
+  
