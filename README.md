@@ -8,7 +8,7 @@ Bu projenin case olarak yapılmıştır.
 
 ## Kullanılan Teknolojiler
 
-**İstemci:** React, Redux
+**İstemci:** React, Redux-Saga
 
 **Sunucu:** Node
 
